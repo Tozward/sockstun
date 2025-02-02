@@ -8,6 +8,7 @@
     <string name="global">全局代理</string>
     <string name="apps">选择应用</string>
     <string name="save">保存</string>
+    <string name="save_text">已保存</string>
     <string name="control_enable">启动</string>
     <string name="control_disable">停止</string>
 </resources>

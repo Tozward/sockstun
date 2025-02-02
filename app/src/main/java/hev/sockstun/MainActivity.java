@@ -90,7 +90,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 		} else if (view == button_save) {
 			savePrefs();
 			Context context = getApplicationContext();
-			Toast.makeText(context, "Saved", Toast.LENGTH_SHORT).show();
+			Toast.makeText(context, R.string.save_text, Toast.LENGTH_SHORT).show();
 		} else if (view == button_control) {
 			boolean isEnable = prefs.getEnable();
 			prefs.setEnable(!isEnable);
