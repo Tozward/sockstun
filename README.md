@@ -2,7 +2,9 @@
 
 [![status](https://github.com/heiher/sockstun/actions/workflows/build.yaml/badge.svg?branch=master&event=push)](https://github.com/heiher/sockstun)
 
-A simple and lightweight VPN over socks5 proxy for Android. It is based on a high-performance and low-overhead [tun2socks](https://github.com/heiher/hev-socks5-tunnel).
+A simple and lightweight VPN over socks5 proxy for Android. Based on a high-performance and low-overhead [tun2socks](https://github.com/heiher/hev-socks5-tunnel).
+
+Material Design theme enabled (only theme, nothing else).
 
 [<img src="https://github.com/heiher/sockstun/blob/master/.github/badges/get-it-on.png"
     alt="Get it on GitHub"
